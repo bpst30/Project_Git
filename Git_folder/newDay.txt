@@ -1,0 +1,2 @@
+This is the new file created to add in the new branch in git
+new branch name is also newDay
