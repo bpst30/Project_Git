@@ -1,2 +1,6 @@
 This is the intro file
 Hi my name is Bhanu Pratap Singh Tanwar
+
+Now i am doing changes in Bhanu while being in main branch
+Currently I am not seeing any changes in the Bhanu.txt what I have done while being in
+secondBranch of git
