@@ -8,3 +8,4 @@ secondBranch of git
 After creating 2nd branch called - secondBranch in git.
 I am going changed in Bhanu while being in secondBranch
 
+adding new line at git repository itself. 
